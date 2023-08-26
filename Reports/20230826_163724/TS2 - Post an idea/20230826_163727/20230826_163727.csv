@@ -1,0 +1,43 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS2 - Post an idea,Chrome 106.0.0.0,,,2023-08-26 16:37:45,2023-08-26 16:48:27,10m - 41.394s,FAILED
+,,,,,,,
+Test Cases/Login,Chrome 106.0.0.0,,,2023-08-26 16:37:46,2023-08-26 16:39:23,1m - 37.172s,PASSED
+Start listener action : enableSauceLabs,Chrome 106.0.0.0,,,2023-08-26 16:37:46,2023-08-26 16:37:46,0.034s,PASSED
+"openBrowser("""")",Chrome 106.0.0.0,,,2023-08-26 16:37:46,2023-08-26 16:37:50,3.341s,PASSED
+"navigateToUrl(""https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/"")",Chrome 106.0.0.0,,,2023-08-26 16:37:50,2023-08-26 16:38:02,12.988s,PASSED
+"click(findTestObject(""Object Repository/button_Log in""))",Chrome 106.0.0.0,,,2023-08-26 16:38:02,2023-08-26 16:38:14,11.481s,PASSED
+"click(findTestObject(""Object Repository/a_Katalon Account""))",Chrome 106.0.0.0,,,2023-08-26 16:38:14,2023-08-26 16:38:41,27.489s,PASSED
+"setText(findTestObject(""Object Repository/input_Email_email""), ""user3@5wphoto.com"")",Chrome 106.0.0.0,,,2023-08-26 16:38:41,2023-08-26 16:38:48,6.083s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/input_Password_password""), ""SLwXyDhhPsbL49YyfNlrYA=="")",Chrome 106.0.0.0,,,2023-08-26 16:38:48,2023-08-26 16:38:49,1.407s,PASSED
+"click(findTestObject(""Object Repository/button_Sign In""))",Chrome 106.0.0.0,,,2023-08-26 16:38:49,2023-08-26 16:38:53,3.861s,PASSED
+delay(10),Chrome 106.0.0.0,,,2023-08-26 16:38:53,2023-08-26 16:39:03,10.047s,PASSED
+"navigateToUrl(""https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/ideas"")",Chrome 106.0.0.0,,,2023-08-26 16:39:03,2023-08-26 16:39:23,19.984s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 106.0.0.0,,,2023-08-26 16:39:23,2023-08-26 16:39:23,0.006s,PASSED
+,,,,,,,
+Test Cases/Post an idea,Chrome 106.0.0.0,,,2023-08-26 16:46:28,2023-08-26 16:48:27,1m - 58.884s,FAILED
+Start listener action : enableSauceLabs,Chrome 106.0.0.0,,,2023-08-26 16:46:28,2023-08-26 16:46:28,0.002s,PASSED
+"openBrowser("""")",Chrome 106.0.0.0,,,2023-08-26 16:46:28,2023-08-26 16:46:30,2.491s,PASSED
+"navigateToUrl(""https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/"")",Chrome 106.0.0.0,,,2023-08-26 16:46:30,2023-08-26 16:46:42,11.668s,PASSED
+"click(findTestObject(""Object Repository/button_Log in""))",Chrome 106.0.0.0,,,2023-08-26 16:46:42,2023-08-26 16:46:52,10.158s,PASSED
+"click(findTestObject(""Object Repository/a_Katalon Account""))",Chrome 106.0.0.0,,,2023-08-26 16:46:52,2023-08-26 16:47:15,23.093s,PASSED
+"setText(findTestObject(""Object Repository/input_Email_email""), ""user3@5wphoto.com"")",Chrome 106.0.0.0,,,2023-08-26 16:47:15,2023-08-26 16:47:19,3.688s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/input_Password_password""), ""SLwXyDhhPsbL49YyfNlrYA=="")",Chrome 106.0.0.0,,,2023-08-26 16:47:19,2023-08-26 16:47:21,2.300s,PASSED
+"click(findTestObject(""Object Repository/button_Sign In""))",Chrome 106.0.0.0,,,2023-08-26 16:47:21,2023-08-26 16:47:25,3.889s,PASSED
+delay(15),Chrome 106.0.0.0,,,2023-08-26 16:47:25,2023-08-26 16:47:40,15.016s,PASSED
+"navigateToUrl(""https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/ideas"")",Chrome 106.0.0.0,,,2023-08-26 16:47:40,2023-08-26 16:47:53,13.137s,PASSED
+"click(findTestObject(""Object Repository/span_Post Ideas""))",Chrome 106.0.0.0,,,2023-08-26 16:47:53,2023-08-26 16:48:02,8.765s,PASSED
+"setText(findTestObject(""Object Repository/input__Title""), titlepost)",Chrome 106.0.0.0,,,2023-08-26 16:48:02,2023-08-26 16:48:08,5.985s,PASSED
+"click(findTestObject(""Object Repository/button__Product""))",Chrome 106.0.0.0,,,2023-08-26 16:48:08,2023-08-26 16:48:11,2.946s,PASSED
+"click(findTestObject(""Object Repository/span_Cloud Studio""))",Chrome 106.0.0.0,,,2023-08-26 16:48:11,2023-08-26 16:48:12,0.920s,PASSED
+"setText(findTestObject(""Object Repository/input__TeamSize""), nomember)",Chrome 106.0.0.0,,,2023-08-26 16:48:12,2023-08-26 16:48:13,0.965s,PASSED
+"setText(findTestObject(""Object Repository/textarea__Description""), description)",Chrome 106.0.0.0,,,2023-08-26 16:48:13,2023-08-26 16:48:14,1.311s,PASSED
+"setText(findTestObject(""Object Repository/textarea__Question1""), description2)",Chrome 106.0.0.0,,,2023-08-26 16:48:14,2023-08-26 16:48:15,0.819s,PASSED
+"setText(findTestObject(""Object Repository/textarea__Question2""), description3)",Chrome 106.0.0.0,,,2023-08-26 16:48:15,2023-08-26 16:48:16,1.075s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/button_Post Idea""))",Chrome 106.0.0.0,,,2023-08-26 16:48:16,2023-08-26 16:48:17,0.481s,PASSED
+"click(findTestObject(""Object Repository/button_Post Idea""))",Chrome 106.0.0.0,,,2023-08-26 16:48:17,2023-08-26 16:48:17,0.612s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/button_Post""))",Chrome 106.0.0.0,,,2023-08-26 16:48:17,2023-08-26 16:48:18,0.581s,PASSED
+"click(findTestObject(""Object Repository/button_Post""))",Chrome 106.0.0.0,,,2023-08-26 16:48:18,2023-08-26 16:48:19,1.014s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/span_Your Idea Created Successfully""), 5)",Chrome 106.0.0.0,,,2023-08-26 16:48:19,2023-08-26 16:48:20,0.699s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/span_Detail""), 5)",Chrome 106.0.0.0,,,2023-08-26 16:48:20,2023-08-26 16:48:20,0.396s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/span_Submitted""), 5)",Chrome 106.0.0.0,,,2023-08-26 16:48:20,2023-08-26 16:48:27,6.748s,FAILED
+Start listener action : autoUpdateJobStatus,Chrome 106.0.0.0,,,2023-08-26 16:48:27,2023-08-26 16:48:27,0.001s,PASSED

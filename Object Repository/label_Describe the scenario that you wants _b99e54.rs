@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Describe the scenario that you wants _b99e54</name>
+   <tag></tag>
+   <elementGuidId>80fad0eb-746e-4e89-9738-1c8e3ccafea9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='824:0']/div/div[2]/c-k-i_-post-idea-l-w-c/div/div/lightning-card/article/div[2]/slot/div/div[4]/lightning-textarea/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-textarea.fieldvalidate.slds-form-element > label.slds-form-element__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>76e5873c-464b-43c3-82f4-d26b58a654aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element__label</value>
+      <webElementGuid>166816d4-451a-4f3c-abbf-fa8c315dbcf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-50</value>
+      <webElementGuid>f00487c5-674d-450a-acf9-85b38f7527f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Describe the scenario that you wants to use the feature?</value>
+      <webElementGuid>f708cf4d-aab1-425d-bb3e-ee899d1fe6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;824:0&quot;)/div[1]/div[@class=&quot;ui-widget&quot;]/c-k-i_-post-idea-l-w-c[1]/div[@class=&quot;slds-grid slds-gutters&quot;]/div[@class=&quot;slds-col slds-size_2-of-3&quot;]/lightning-card[1]/article[@class=&quot;slds-card&quot;]/div[@class=&quot;slds-card__body&quot;]/slot[1]/div[@class=&quot;slds-col slds-size_12-of-12&quot;]/div[4]/lightning-textarea[@class=&quot;fieldvalidate slds-form-element&quot;]/label[@class=&quot;slds-form-element__label&quot;]</value>
+      <webElementGuid>0f77f822-94ae-4617-953d-bbb8a2a871bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='824:0']/div/div[2]/c-k-i_-post-idea-l-w-c/div/div/lightning-card/article/div[2]/slot/div/div[4]/lightning-textarea/label</value>
+      <webElementGuid>84454452-5811-49c0-95cf-959b60b0634d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[1]</value>
+      <webElementGuid>6634c581-5054-4374-94e8-6018e7d6b45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Describe the scenario that you wants to use the feature?']/parent::*</value>
+      <webElementGuid>57266c9f-6aaa-4e03-952d-538361bdfa29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-textarea/label</value>
+      <webElementGuid>cb76ebd3-1178-4e4a-a424-df872762dd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '*Describe the scenario that you wants to use the feature?' or . = '*Describe the scenario that you wants to use the feature?')]</value>
+      <webElementGuid>ab91cb8f-f93f-4119-a2d9-7afe1ec02c8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

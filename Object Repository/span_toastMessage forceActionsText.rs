@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_toastMessage forceActionsText</name>
+   <tag></tag>
+   <elementGuidId>491085c0-5778-43d2-ac46-490eaf5c80b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bd67c36b-851e-4513-96f9-4a51eb5543f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toastMessage forceActionsText</value>
+      <webElementGuid>a1435b65-3dc3-47e4-bd5d-c9d4db66ab61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>862:0</value>
+      <webElementGuid>f4b389bf-e5df-4e88-88e2-335f363eaafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>forceActionsText</value>
+      <webElementGuid>bc831d1a-5054-457a-acd0-a7d208369ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;toastContainer slds-notify_container slds-is-relative&quot;]/div[@class=&quot;slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage toastHidden&quot;]/div[@class=&quot;toastContent slds-notify__content&quot;]/div[@class=&quot;slds-align-middle slds-hyphenate&quot;]/div[@id=&quot;toastDescription847:0&quot;]/span[@class=&quot;toastMessage forceActionsText&quot;]</value>
+      <webElementGuid>62e85697-3f26-45d3-b1aa-26db51f2dc53</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

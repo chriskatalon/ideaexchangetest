@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Quan test post idea 1</name>
+   <tag></tag>
+   <elementGuidId>b46f3733-9a73-4648-a927-ba0e5a4a794b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='1244:0']/div/div/c-search-idea-record-l-w-c/lightning-card/article/div[2]/slot/div[2]/div/div/lightning-datatable/div[2]/div/div/table/tbody/tr/th/lightning-primitive-cell-factory/span/div/lightning-formatted-url/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;/katalonhelpcenter/s/kidea/a4DBU0000000fzF2AQ&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>046f5324-2c18-4233-905c-6e7927b693f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/katalonhelpcenter/s/kidea/a4DBU0000000fzF2AQ</value>
+      <webElementGuid>c79196ee-939d-4a9c-9923-13f98d7fed3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>/katalonhelpcenter/s/kidea/a4DBU0000000fzF2AQ</value>
+      <webElementGuid>68009675-e6c9-4f41-b246-b179555bf21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a00a4584-f6c8-4115-b2e1-f2a81eec443a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>29f7810d-056a-4196-8efa-d597e789b217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quan test post idea 1</value>
+      <webElementGuid>d0047283-ae46-4620-b654-690f200d2661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1244:0&quot;)/div[1]/div[@class=&quot;ui-widget&quot;]/c-search-idea-record-l-w-c[1]/lightning-card[1]/article[@class=&quot;slds-card&quot;]/div[@class=&quot;slds-card__body&quot;]/slot[1]/div[@class=&quot;slds-m-around_medium&quot;]/div[@class=&quot;slds-m-around_medium&quot;]/div[@class=&quot;myCss&quot;]/lightning-datatable[1]/div[@class=&quot;dt-outer-container&quot;]/div[@class=&quot;slds-table_header-fixed_container slds-scrollable_x&quot;]/div[@class=&quot;slds-scrollable_y&quot;]/table[@class=&quot;slds-table slds-table_header-fixed slds-table_bordered slds-table_edit slds-table_resizable-cols&quot;]/tbody[1]/tr[@class=&quot;slds-hint-parent&quot;]/th[@class=&quot;myCssTitle slds-has-focus&quot;]/lightning-primitive-cell-factory[@class=&quot;slds-has-focus&quot;]/span[@class=&quot;slds-grid slds-grid_align-spread&quot;]/div[@class=&quot;slds-truncate&quot;]/lightning-formatted-url[1]/a[1]</value>
+      <webElementGuid>691604ed-edc4-4780-a8d7-fc584c55315c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='1244:0']/div/div/c-search-idea-record-l-w-c/lightning-card/article/div[2]/slot/div[2]/div/div/lightning-datatable/div[2]/div/div/table/tbody/tr/th/lightning-primitive-cell-factory/span/div/lightning-formatted-url/a</value>
+      <webElementGuid>dda6da96-c265-46bb-9a03-e81c352b1915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quan test post idea 1')]</value>
+      <webElementGuid>c744d54a-5601-437b-9e2a-074a3a80ac70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show actions'])[6]/following::a[1]</value>
+      <webElementGuid>080e2d48-6f12-406a-9256-74b1f6228516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sorted Descending'])[1]/following::a[1]</value>
+      <webElementGuid>77c29356-88c4-4e9e-893c-d7320dee5abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Studio'])[1]/preceding::a[1]</value>
+      <webElementGuid>43094cbd-ad33-4330-acca-ec86889e091f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d59c1ee-8ef0-4c8d-8214-d25c34fcf1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quan test post idea 1']/parent::*</value>
+      <webElementGuid>d1bfbd67-98e2-4ce2-8185-f80d3433c793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/katalonhelpcenter/s/kidea/a4DBU0000000fzF2AQ')]</value>
+      <webElementGuid>771343d1-81a9-481e-a8d0-1f513bdd06c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-formatted-url/a</value>
+      <webElementGuid>0b10d04d-4cdd-4371-aa61-6aa1098d44f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/katalonhelpcenter/s/kidea/a4DBU0000000fzF2AQ' and @title = '/katalonhelpcenter/s/kidea/a4DBU0000000fzF2AQ' and (text() = 'Quan test post idea 1' or . = 'Quan test post idea 1')]</value>
+      <webElementGuid>58666219-035c-491b-bbc8-12c014eb4c03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1 - Without Login vs Login,Chrome 106.0.0.0,,,2023-08-26 16:38:07,2023-08-26 16:45:05,6m - 58.658s,FAILED
+,,,,,,,
+Test Cases/User without login,Chrome 106.0.0.0,,,2023-08-26 16:41:56,2023-08-26 16:43:16,1m - 20.246s,FAILED
+Start listener action : enableSauceLabs,Chrome 106.0.0.0,,,2023-08-26 16:41:56,2023-08-26 16:41:56,0.001s,PASSED
+"openBrowser("""")",Chrome 106.0.0.0,,,2023-08-26 16:41:56,2023-08-26 16:41:58,2.380s,PASSED
+"navigateToUrl(""https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/ideas"")",Chrome 106.0.0.0,,,2023-08-26 16:41:58,2023-08-26 16:42:12,13.253s,PASSED
+"click(findTestObject(""Object Repository/span_Post Ideas""))",Chrome 106.0.0.0,,,2023-08-26 16:42:12,2023-08-26 16:42:44,32.016s,PASSED
+"verifyElementText(findTestObject(""Object Repository/p_Hello there""), ""Hello there!"")",Chrome 106.0.0.0,,,2023-08-26 16:42:44,2023-08-26 16:43:16,32.543s,FAILED
+Start listener action : autoUpdateJobStatus,Chrome 106.0.0.0,,,2023-08-26 16:43:16,2023-08-26 16:43:16,0.003s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 106.0.0.0,,,2023-08-26 16:43:16,2023-08-26 16:45:05,1m - 49.093s,PASSED
+Start listener action : enableSauceLabs,Chrome 106.0.0.0,,,2023-08-26 16:43:16,2023-08-26 16:43:16,0.006s,PASSED
+"openBrowser("""")",Chrome 106.0.0.0,,,2023-08-26 16:43:17,2023-08-26 16:43:20,3.029s,PASSED
+"navigateToUrl(""https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/"")",Chrome 106.0.0.0,,,2023-08-26 16:43:20,2023-08-26 16:43:24,3.710s,PASSED
+"click(findTestObject(""Object Repository/button_Log in""))",Chrome 106.0.0.0,,,2023-08-26 16:43:24,2023-08-26 16:43:51,27.157s,PASSED
+"click(findTestObject(""Object Repository/a_Katalon Account""))",Chrome 106.0.0.0,,,2023-08-26 16:43:51,2023-08-26 16:44:17,26.149s,PASSED
+"setText(findTestObject(""Object Repository/input_Email_email""), ""user3@5wphoto.com"")",Chrome 106.0.0.0,,,2023-08-26 16:44:17,2023-08-26 16:44:21,3.768s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/input_Password_password""), ""SLwXyDhhPsbL49YyfNlrYA=="")",Chrome 106.0.0.0,,,2023-08-26 16:44:21,2023-08-26 16:44:25,4.078s,PASSED
+"click(findTestObject(""Object Repository/button_Sign In""))",Chrome 106.0.0.0,,,2023-08-26 16:44:25,2023-08-26 16:44:28,3.583s,PASSED
+delay(10),Chrome 106.0.0.0,,,2023-08-26 16:44:28,2023-08-26 16:44:38,10.040s,PASSED
+"navigateToUrl(""https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/ideas"")",Chrome 106.0.0.0,,,2023-08-26 16:44:38,2023-08-26 16:45:05,26.990s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 106.0.0.0,,,2023-08-26 16:45:05,2023-08-26 16:45:05,0.021s,PASSED

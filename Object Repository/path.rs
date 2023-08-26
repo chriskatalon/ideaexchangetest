@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>721203ea-0f12-41f2-854c-4903ea205a53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>745be9c5-9328-4dfa-bf53-5646a0a50241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M47.6 17.8L27.1 38.5c-.6.6-1.6.6-2.2 0L4.4 17.8c-.6-.6-.6-1.6 0-2.2l2.2-2.2c.6-.6 1.6-.6 2.2 0l16.1 16.3c.6.6 1.6.6 2.2 0l16.1-16.2c.6-.6 1.6-.6 2.2 0l2.2 2.2c.5.6.5 1.5 0 2.1z</value>
+      <webElementGuid>3aafda42-e380-41d2-9f54-caba5bf16cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;41:84;a&quot;)/div[1]/div[1]/button[@class=&quot;comm-navigation__top-level-item-link comm-navigation__sub-menu-trigger js-top-level-menu-item linkBtn focus-hide&quot;]/lightning-icon[@class=&quot;slds-icon-utility-chevrondown comm-navigation__sub-menu-trigger-icon slds-icon_container&quot;]/span[1]/lightning-primitive-icon[1]/svg[@class=&quot;slds-icon slds-icon_xx-small&quot;]/g[1]/path[1]</value>
+      <webElementGuid>7fdb2ca1-0fa7-42b8-a2a3-313fe342a5e9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

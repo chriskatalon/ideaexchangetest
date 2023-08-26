@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_More_slds-icon slds-icon_xx-small</name>
+   <tag></tag>
+   <elementGuidId>27244f14-1dda-41e2-bb50-d667b08c73fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]//*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.slds-icon.slds-icon_xx-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>23476000-66a9-4aad-b5b7-6c60cf51ac76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-icon slds-icon_xx-small</value>
+      <webElementGuid>6579fb1f-e782-4ecb-a798-2e2c5470f510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1c2e0a44-f35a-489a-9a4a-90b403242ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>chevrondown</value>
+      <webElementGuid>40751a31-1e01-40fa-94aa-bad6e7bb280c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>73182340-c0b4-4062-90c9-edfe471cfda5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 52 52</value>
+      <webElementGuid>92b9e452-9ba8-4e0e-bd1f-2dca95b8c1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>0e669feb-d244-4d76-91dc-d81dd657f242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;41:76;a&quot;)/div[1]/div[1]/button[@class=&quot;comm-navigation__top-level-item-link comm-navigation__sub-menu-trigger js-top-level-menu-item linkBtn focus-hide&quot;]/lightning-icon[@class=&quot;slds-icon-utility-chevrondown comm-navigation__sub-menu-trigger-icon slds-icon_container&quot;]/span[1]/lightning-primitive-icon[1]/svg[@class=&quot;slds-icon slds-icon_xx-small&quot;]</value>
+      <webElementGuid>ab34bd69-f862-44bf-b2ff-198494250efe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>f2cab486-66a7-47e8-8185-cf246fdffe10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ideas :)'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a0dac405-6f9f-4ec1-a547-87929b9dca5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand search'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>6f335067-6c80-426d-8db8-f0cfe14f99fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>3f5b86e9-0aaf-4eb0-b587-1017b7e6449e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

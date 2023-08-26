@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-base-formatted-text_1</name>
+   <tag></tag>
+   <elementGuidId>bbd7c1b4-35d0-4673-8a1d-7dd88557c62c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='894:0']/div/div/c-search-idea-record-l-w-c/lightning-card/article/div[2]/slot/div[2]/div/div/lightning-datatable/div[2]/div/div/table/tbody/tr/td[4]/lightning-primitive-cell-factory/span/div/lightning-base-formatted-text</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > lightning-primitive-cell-factory > span.slds-grid.slds-grid_align-spread > div.slds-truncate > lightning-base-formatted-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-base-formatted-text</value>
+      <webElementGuid>e0a304e4-0151-4234-a37c-be7f6ac40755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>5406a575-65ec-4843-89df-7e9dd071ef75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;894:0&quot;)/div[1]/div[@class=&quot;ui-widget&quot;]/c-search-idea-record-l-w-c[1]/lightning-card[1]/article[@class=&quot;slds-card&quot;]/div[@class=&quot;slds-card__body&quot;]/slot[1]/div[@class=&quot;slds-m-around_medium&quot;]/div[@class=&quot;slds-m-around_medium&quot;]/div[@class=&quot;myCss&quot;]/lightning-datatable[1]/div[@class=&quot;dt-outer-container&quot;]/div[@class=&quot;slds-table_header-fixed_container slds-scrollable_x&quot;]/div[@class=&quot;slds-scrollable_y&quot;]/table[@class=&quot;slds-table slds-table_header-fixed slds-table_bordered slds-table_edit slds-table_resizable-cols&quot;]/tbody[1]/tr[@class=&quot;slds-hint-parent&quot;]/td[4]/lightning-primitive-cell-factory[1]/span[@class=&quot;slds-grid slds-grid_align-spread&quot;]/div[@class=&quot;slds-truncate&quot;]/lightning-base-formatted-text[1]</value>
+      <webElementGuid>fd304385-1bf7-4421-be78-039743bf4d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='894:0']/div/div/c-search-idea-record-l-w-c/lightning-card/article/div[2]/slot/div[2]/div/div/lightning-datatable/div[2]/div/div/table/tbody/tr/td[4]/lightning-primitive-cell-factory/span/div/lightning-base-formatted-text</value>
+      <webElementGuid>05d0a174-0c12-414f-8578-2dca2e408d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello'])[1]/following::lightning-base-formatted-text[1]</value>
+      <webElementGuid>4c0e091f-c515-4f26-9d89-1627c4baff0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[1]/following::lightning-base-formatted-text[2]</value>
+      <webElementGuid>fca501c0-3bae-4edb-bfae-ee200634a8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show actions'])[7]/preceding::lightning-base-formatted-text[2]</value>
+      <webElementGuid>95048b35-3937-4df9-b564-47626e9de531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quan test post idea 1'])[1]/preceding::lightning-base-formatted-text[2]</value>
+      <webElementGuid>67b58c13-902e-4154-818d-a0497b51ab3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/lightning-primitive-cell-factory/span/div/lightning-base-formatted-text</value>
+      <webElementGuid>d5e6a201-f3c5-4d9b-a4b5-916e3669ee27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-base-formatted-text[(text() = '1' or . = '1')]</value>
+      <webElementGuid>d5d8149e-9dd6-4725-aa72-bb7b5a34f4f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

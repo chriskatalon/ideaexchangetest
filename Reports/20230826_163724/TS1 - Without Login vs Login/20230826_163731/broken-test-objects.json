@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/span_Post Ideas",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027My Ideas\u0027])[1]/following::span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027All Ideas\u0027])[1]/following::span[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230826_163724/TS1 - Without Login vs Login/20230826_163731/Object Repository/span_Post Ideas_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/p_Hello there",
+      "brokenLocator": "//section[@id\u003d\u0027428:0\u0027]/div/div[2]/c-k-i_-post-idea-l-w-c/div/div/h1/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Loading\u0027])[2]/preceding::p[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230826_163724/TS1 - Without Login vs Login/20230826_163731/Object Repository/p_Hello there_neighbor.png"
+    }
+  ]
+}

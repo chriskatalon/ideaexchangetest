@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Quan testing 26 Aug</name>
+   <tag></tag>
+   <elementGuidId>ba8038e9-1dbb-48ef-bd47-1461a315f086</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4:492;a']/div/div/div/div/div[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.uiOutputText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8550c28-122f-45cc-a6fd-9d1ba0487108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>9:492;a</value>
+      <webElementGuid>ea082dd9-fdfe-4d22-a3a6-e7f2e0e77e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uiOutputText</value>
+      <webElementGuid>e068fd60-37fe-43f4-8294-d946b1725f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>uiOutputText</value>
+      <webElementGuid>4894be9c-73d5-41c9-aa58-34a5c25a6b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quan testing 26 Aug</value>
+      <webElementGuid>5a1b57d3-b18e-4b22-8582-7c0b65994f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4:492;a&quot;)/div[@class=&quot;slds-form slds-form_stacked&quot;]/div[@class=&quot;slds-grid slds-gutters_small full cols-2 forcePageBlockSectionRow&quot;]/div[@class=&quot;slds-col slds-grid slds-has-flexi-truncate  full forcePageBlockItem forcePageBlockItemView&quot;]/div[@class=&quot;slds-form-element slds-form-element_readonly slds-grow slds-hint-parent override--slds-form-element hover&quot;]/div[@class=&quot;slds-form-element__control slds-grid itemBody&quot;]/span[@class=&quot;test-id__field-value slds-form-element__static slds-grow  is-read-only&quot;]/span[@class=&quot;uiOutputText&quot;]</value>
+      <webElementGuid>fc848781-8b16-4704-a5ba-73e0dba12453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4:492;a']/div/div/div/div/div[2]/span/span</value>
+      <webElementGuid>e5d152e1-dfe6-44c3-8eb7-d0dc19d3d6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::span[2]</value>
+      <webElementGuid>3f33506b-28b0-4008-9a6c-2178bed6b595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::span[3]</value>
+      <webElementGuid>b3e0db32-b76c-49af-8568-495e630e17a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::span[1]</value>
+      <webElementGuid>e936fbf1-65ca-4b70-9724-c6ea9aa35898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[1]/preceding::span[2]</value>
+      <webElementGuid>952135ab-99d8-49b2-a4fa-932709c549bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quan testing 26 Aug']/parent::*</value>
+      <webElementGuid>15b007a2-e096-4d9d-87d4-8bc1bc788344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>756ca8fb-2103-472b-a631-75f1266a9f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Quan testing 26 Aug' or . = 'Quan testing 26 Aug')]</value>
+      <webElementGuid>89b18be0-9632-42a3-be5c-1864237d0ac1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

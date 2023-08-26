@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upvoted</name>
+   <tag></tag>
+   <elementGuidId>a456e3b1-3a89-4958-8754-620b10413724</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Question 4'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_brand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>76346af6-2da2-489c-844b-130cdddef7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_brand</value>
+      <webElementGuid>84cdc72c-b11e-4204-9d67-2e33b10ba628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon-name</name>
+      <type>Main</type>
+      <value>utility:like</value>
+      <webElementGuid>4c9ccf5e-2dc6-447e-893e-89ae3926d045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upvoted</value>
+      <webElementGuid>23405d0d-b2c0-43c3-8e26-979ab4c6bca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;null comm-page-detail-a4D&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsTwoCol84Layout siteforceContentArea&quot;]/div[@class=&quot;slds-grid slds-wrap slds-medium-nowrap slds-large-nowrap&quot;]/div[@class=&quot;slds-col--padded slds-size--12-of-12 slds-medium-size--4-of-12 slds-large-size--4-of-12 comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/c-vote-idea-l-w-c[1]/div[@class=&quot;voteIdeaCss&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-size_10-of-12&quot;]/div[@class=&quot;slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small&quot;]/div[1]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
+      <webElementGuid>24bfadff-d25a-481c-969f-a5accc1445c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question 4'])[1]/following::button[1]</value>
+      <webElementGuid>fe1b408b-ee1f-47ca-b890-59a7fe040e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Are there any other relevant details or specifications that you', &quot;'&quot;, 'd like to add?')])[1]/following::button[1]</value>
+      <webElementGuid>92d11fa5-30d8-4dec-9cb4-25787549f070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created on 2023-08-26'])[1]/preceding::button[2]</value>
+      <webElementGuid>0b702cd4-efd9-4017-89b3-aebe64380fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[2]/preceding::button[4]</value>
+      <webElementGuid>ed6d6fce-c233-4d2f-8a38-e041b8ba5f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upvoted']/parent::*</value>
+      <webElementGuid>5a5990ae-6759-4c11-9952-0dbf7ed355b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-vote-idea-l-w-c/div/div/div[2]/div/div/button</value>
+      <webElementGuid>d768fd94-ff23-400e-88be-801f7bfbe48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Upvoted' or . = 'Upvoted')]</value>
+      <webElementGuid>d5992db9-eaa5-491a-a345-5b29158d4f19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
