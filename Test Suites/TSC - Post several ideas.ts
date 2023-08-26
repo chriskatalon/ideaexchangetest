@@ -4,7 +4,7 @@
    <name>TSC - Post several ideas</name>
    <tag></tag>
    <delayBetweenInstances>10</delayBetweenInstances>
-   <executionMode>PARALLEL</executionMode>
+   <executionMode>SEQUENTIAL</executionMode>
    <maxConcurrentInstances>8</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>

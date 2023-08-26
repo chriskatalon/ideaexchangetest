@@ -31,9 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_password
 
 WebUI.click(findTestObject('Object Repository/button_Sign In'))
 
-WebUI.delay(10)
+WebUI.delay(11)
 
 WebUI.navigateToUrl('https://katalon-inc--sc.sandbox.my.site.com/katalonhelpcenter/s/ideas')
-
-
 
